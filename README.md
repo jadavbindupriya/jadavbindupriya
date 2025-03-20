@@ -27,8 +27,8 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
 - **Developer Tools**: Git, GitHub, Jupyter Notebook, VS Code 
 
 ## 📊 GitHub Stats  
-![Bindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BinduPriyaJadav&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BinduPriyaJadav&layout=compact)  
+![Bindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadavbindupriya&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadavbindupriya&layout=compact)   
 
 Let's connect and build amazing things together! 🚀  
 
