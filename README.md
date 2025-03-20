@@ -21,8 +21,8 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
 
 ## 🛠️ Skills  
 - **Programming Languages**: Python, C++
-- **Libraries and Frameworks:NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras
-- **Data Analysis Visualization:Microsoft Excel, Power BI, Seaborn 
+- **Libraries and Frameworks**:NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras
+- **Data Analysis Visualization**:Microsoft Excel, Power BI, Seaborn 
 - **Databases**: MySQL, MongoDB  
 - **Developer Tools**: Git, GitHub, Jupyter Notebook, VS Code 
 
