@@ -1,7 +1,7 @@
 
 
 ## 💫About Me  
-I am Bindu Priya Jadav, a final-year B.Tech Computer Science Engineering student from NIT Hamirpur. Originally from Telangana, I am passionate about Data Science, Machine Learning. I enjoy solving real-world problems through coding and research.  
+Hi👋 there! I am Bindu Priya Jadav, a final-year B.Tech Computer Science Engineering student from NIT Hamirpur. Originally from Telangana, I am passionate about Data Science, Machine Learning. I enjoy solving real-world problems through coding and research.  
 
 ## 🔍 Current Focus  
 Currently, I am focusing on enhancing my skills in **Machine Learning, Deep Learning, and NLP**. My journey in tech has been exciting, and I am continuously learning new technologies to stay updated with industry trends.  
