@@ -19,9 +19,9 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
 ## 📄 My Resume  
 [Click here to view my resume](https://your-resume-link.com)  
 
- ## 🛠️ Skills  
+## 🛠️ Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nextjs,nodejs,mongodb,mysql,git,github,bootstrap,express,jquery,tailwind,vscode,tensorflow,keras)](https://github.com/jadavbindupriya)  
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,numpy,pandas,matplotlib,scikit-learn,tensorflow,keras,powerbi,mysql,mongodb,git,github,jupyter,vscode)](https://github.com/jadavbindupriya)  
 
 
 
