@@ -20,8 +20,9 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
 [Click here to view my resume](https://your-resume-link.com)  
 
 ## 🛠️ Skills  
-- **Programming Languages**: Python, C, C++, SQL  
-- **Data Science & Machine Learning**: NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Scikit-Learn  
+- **Programming Languages**: Python, C++
+- **Libraries and Frameworks:NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras
+- **Data Analysis Visualization:Microsoft Excel, Power BI, Seaborn 
 - **Databases**: MySQL, MongoDB  
 - **Developer Tools**: Git, GitHub, Jupyter Notebook, VS Code 
 
@@ -33,15 +34,3 @@ Let's connect and build amazing things together! 🚀
 
 <!--
 **jadavbindupriya/jadavbindupriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
