@@ -24,7 +24,45 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
 - **Libraries and Frameworks**:NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras
 - **Data Analysis Visualization**:Microsoft Excel, Power BI, Seaborn 
 - **Databases**: MySQL, MongoDB  
-- **Developer Tools**: Git, GitHub, Jupyter Notebook, VS Code 
+- **Developer Tools**: Git, GitHub, Jupyter Notebook, VS Code
+## 🛠️ Skills  
+
+### **Programming Languages**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### **Libraries & Frameworks**  
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+
+### **Data Analysis & Visualization**  
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### **Databases**  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### **Developer Tools**  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p> 
 
 ## 📊 GitHub Stats  
 ![Bindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadavbindupriya&show_icons=true&theme=radical)  
