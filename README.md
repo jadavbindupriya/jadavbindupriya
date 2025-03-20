@@ -21,7 +21,7 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
 
 ## 🛠️ Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,numpy,pandas,matplotlib,scikit-learn,tensorflow,keras,powerbi,mysql,mongodb,git,github,jupyter,vscode)](https://github.com/jadavbindupriya)  
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,numpy,pandas,matplotlib,scikitlearn,tensorflow,keras,powerbi,mysql,git,github,jupyter,vscode)](https://github.com/jadavbindupriya)  
 
 
 
