@@ -17,7 +17,7 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
  
 
 ## 📄 My Resume  
-[Click here to view my resume](https://your-resume-link.com)  
+[Click here to view my resume](https://drive.google.com/file/d/16JfzXQNpQKKxXtgBJ5z62AHDc3IuvHpg/view?usp=drivesdk)  
 
 ## 🛠️ Skills  
 
