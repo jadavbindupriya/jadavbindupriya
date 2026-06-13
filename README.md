@@ -1,37 +1,22 @@
-## 💫 About Me
+## About Me
 
-Hi 👋 there! I am Jadav Bindu Priya, an AI/ML Developer at Avaada Group and a Computer Science Engineering graduate from NIT Hamirpur. Originally from Telangana, I am passionate about Agentic AI, RAG pipelines, and building intelligent full-stack applications. I enjoy solving real-world problems through AI engineering and system design.
+Hi  there! I am Jadav Bindu Priya, an AI/ML Developer at Avaada Group and a Computer Science Engineering graduate from NIT Hamirpur. Originally from Telangana, I am passionate about Agentic AI, RAG pipelines, and building intelligent full-stack applications. I enjoy solving real-world problems through AI engineering and system design.
 
-## 🔍 Current Focus
+## Current Focus
 
 Currently, I am focusing on enhancing my skills in **Agentic AI, LLMs, RAG Pipelines, and Multi-Agent Orchestration**. My journey in AI engineering has been exciting, and I am continuously exploring LangGraph, GraphRAG, and advanced agentic frameworks to stay at the forefront of the field.
 
-## 🚀 Projects
+## Projects
+Stay tuned for updates on my projects! I look forward to sharing them with you here on GitHub.
 
-### 🤖 [Multi-Agent Coding Assistant](https://github.com/jadavbindupriya90/multi-agent-coding-assistant)
-
-A production-ready Agentic AI system that autonomously solves coding problems by orchestrating 4 specialized agents — Planner, Coder, Reviewer, and Tester — using LangChain, ChromaDB RAG, and OpenAI function calling.
-
-### 📊 [Walmart Sales Analysis](https://github.com/jadavbindupriya90/Walmart-Sales-Analysis)
-
-Exploratory data analysis and sales forecasting on Walmart dataset using Python, Pandas, and data visualization libraries.
-
-### 🔢 [MNIST Digit Recognition](https://github.com/jadavbindupriya90/MNIST-Digit-Recognition)
-
-Deep learning model for handwritten digit classification using TensorFlow/Keras on the MNIST dataset.
-
-### 🧠 [Spinal Condition Analysis](https://github.com/jadavbindupriya90/Spinal_Condition_Analysis)
-
-Machine learning model to analyze and classify spinal conditions using medical dataset features.
-
-## 📫 Contact Me
+## Contact Me
 
 Feel free to reach out to me for collaborations, discussions, or just to say hello! 🙃
 
 - Email: **jadavbindupriya90@gmail.com**
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jadav-bindu-priya-277a0934b)
 
-## 🛠️ Skills
+## Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -61,7 +46,7 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Bindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadavbindupriya90&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadavbindupriya90&layout=compact)
