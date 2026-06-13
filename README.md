@@ -1,4 +1,3 @@
-
 ## 💫 About Me
 
 Hi 👋 there! I am Jadav Bindu Priya, an AI/ML Developer at Avaada Group and a Computer Science Engineering graduate from NIT Hamirpur. Originally from Telangana, I am passionate about Agentic AI, RAG pipelines, and building intelligent full-stack applications. I enjoy solving real-world problems through AI engineering and system design.
@@ -13,7 +12,17 @@ Currently, I am focusing on enhancing my skills in **Agentic AI, LLMs, RAG Pipel
 
 A production-ready Agentic AI system that autonomously solves coding problems by orchestrating 4 specialized agents — Planner, Coder, Reviewer, and Tester — using LangChain, ChromaDB RAG, and OpenAI function calling.
 
-Stay tuned for more projects coming soon!
+### 📊 [Walmart Sales Analysis](https://github.com/jadavbindupriya90/Walmart-Sales-Analysis)
+
+Exploratory data analysis and sales forecasting on Walmart dataset using Python, Pandas, and data visualization libraries.
+
+### 🔢 [MNIST Digit Recognition](https://github.com/jadavbindupriya90/MNIST-Digit-Recognition)
+
+Deep learning model for handwritten digit classification using TensorFlow/Keras on the MNIST dataset.
+
+### 🧠 [Spinal Condition Analysis](https://github.com/jadavbindupriya90/Spinal_Condition_Analysis)
+
+Machine learning model to analyze and classify spinal conditions using medical dataset features.
 
 ## 📫 Contact Me
 
@@ -30,18 +39,26 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
 ## 📊 GitHub Stats
